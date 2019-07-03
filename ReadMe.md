@@ -1,7 +1,9 @@
 # Animal Viewer
-A Demo of Basic React functionality
-
+A demo of basic React functionality including:
+  * JSX Components 
+  * handling Props & State
+  * Conditional Rendering
 ## How to Use
-1. git clone this repo
-2. run 'npm install'
-3. run 'npm run start' 
+1. Clone or fork this repo
+2. ```npm install```
+3. ```npm run start ```
